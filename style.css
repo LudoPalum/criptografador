@@ -91,7 +91,7 @@ body{
 
 .mensagem{
     border: none;
-    background-image: url(/imagens/aventureira.png);
+    background-image: url(./imagens/aventureira.png);
     background-repeat: no-repeat;
     background-position:50%;
     background-color: rgb(255, 255, 255);
